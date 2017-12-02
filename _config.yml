@@ -6,11 +6,12 @@
 name: Jason Khadka
 
 # Short bio or description (displayed in the header)
-description: Physicist
+description: Physicst
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jasonkhadka/jekyll-now/master/images/jason.png
 
+background-image: https://raw.githubusercontent.com/jasonkhadka/jekyll-now/master/images/web_back_ground.png
 #
 # Flags below are optional
 #

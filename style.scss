@@ -164,6 +164,7 @@ img {
 
   @include mobile {
     text-align: center;
+    height : 220px
   }
 }
 
@@ -190,6 +191,7 @@ img {
   @include mobile {
     float: none;
     display: block;
+    padding: 20px;
     margin: 0 auto;
   }
 }
@@ -210,7 +212,7 @@ img {
   font-size: 16px;
 
   @include mobile {
-    margin: 3px 0;
+    margin: 0px 0;
   }
 }
 
@@ -222,9 +224,9 @@ nav {
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 0px;
     display: block;
-    font-size: 16px;
+    font-size: 20px;
   }
 
   a {
@@ -235,8 +237,8 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+      margin: 0 10 px;
+      color: $darkGray;
     }
   }
 }

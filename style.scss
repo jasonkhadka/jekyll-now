@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: #D7DAE4;//background color
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -156,7 +156,10 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 30px 0;
+  background:#D7DAE4 url("../images/web_back_ground.png");
+  background-size: cover;
+
   border-bottom: 1px solid $lightGray;
 
   @include mobile {

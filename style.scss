@@ -159,7 +159,7 @@ img {
   padding: 10px 0;
   background:#D7DAE4 url("../images/web_back_ground.png");
   background-size: cover;
-
+  height : 120px;
   border-bottom: 2px solid $lightGray;
 
   @include mobile {
@@ -195,7 +195,7 @@ img {
 }
 
 .site-name {
-  margin: 0;
+  margin: 5px 0;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
